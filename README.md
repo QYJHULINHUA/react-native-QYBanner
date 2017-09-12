@@ -1,6 +1,6 @@
-t native banner 轮播图
+react native banner 轮播图
 
-* react native实现的轮播图。适用于ios、android。
+* react native实现的轮播图。仅一个文件,适用于ios、android。
 * 使用
 
 	导入banner文件即可
