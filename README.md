@@ -7,7 +7,7 @@ react native banner 轮播图
   `import Banner from './banner/banner'`
   
   `
-  <Banner
+       <Banner
            imgArr={dataList}
            figureHeight={240}
            dotPlace='center'
